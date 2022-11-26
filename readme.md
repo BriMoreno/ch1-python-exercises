@@ -1,6 +1,6 @@
-# Chapter 1 Starting out with Python 4th ed Review activies and Questions
+# Ch.1 Starting out with Python 4th ed Review Activies and Questions
 
-## Chapter 1 Python Multipe Choice Questions answered
+## Choice Questions
 1. A(n) b.program is a set of instructions that a computer follows to preform a task
 2. The physical devices that a computer is made of are referred to as a.hardware.
 3. The part of a computer that runs a program is called e.the CPU.
